@@ -1,5 +1,8 @@
       PROGRAM simpson_2d
 
+!     Kuntal Ghosh
+!     May 2022
+
 !     Far superior to 2D trapezoidal rule!
 
       IMPLICIT NONE
